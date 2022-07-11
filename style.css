@@ -68,13 +68,3 @@ footer{
   height:50px;
   margin: 0 auto;
 }
-
-@media screen and (max-width: 768px){
-  main{
-    width: 100%;
-  }
-  
- .step-box{
-    display: ;
-  }
-}
